@@ -12,7 +12,7 @@ A fast, modern web-based video processing tool focused on meme creation and soci
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/videtopia.git
+   git clone https://github.com/Professa/videtopia.git
    cd videtopia
    ```
 
